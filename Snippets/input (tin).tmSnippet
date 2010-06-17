@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?=\$this-&gt;form-&gt;field('${2:field}'$3); ?&gt;$0</string>
+	<key>name</key>
+	<string>$form-&gt;field()</string>
+	<key>scope</key>
+	<string>text.html.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>field</string>
+	<key>uuid</key>
+	<string>429789E2-E940-4402-B160-247CDDCA2AA8</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?=\$this-&gt;html-&gt;link('${1:text}', ${2:array('${3:Controller}::${4:action}'$5)}); ?&gt;$0</string>
+	<key>name</key>
+	<string>$html-&gt;link()</string>
+	<key>scope</key>
+	<string>text.html.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>link</string>
+	<key>uuid</key>
+	<string>B67591FC-EA93-409B-805F-43F7399FF2E9</string>
+</dict>
+</plist>

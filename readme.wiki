@@ -1,0 +1,8 @@
+Installation:
+
+Fire up Terminal, and enter the following two commands:
+
+cd ~/Library/Application\ Support/TextMate/Bundles
+git clone code@rad-dev.org:lithium_textmate.git Lithium.tmbundle
+
+In TextMate: Bundles > Bundle Editor > Reload Bundles
