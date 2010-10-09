@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/**
+ * ${1:undocumented class}
+ *
+ **/
+$0</string>
+	<key>name</key>
+	<string>Class Docblock (cdoc)</string>
+	<key>scope</key>
+	<string>source.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>cdoc</string>
+	<key>uuid</key>
+	<string>4CAFB08F-EDC0-40A9-B209-112300000000</string>
+</dict>
+</plist>

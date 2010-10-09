@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>public static function __init() {
+	$0
+}</string>
+	<key>name</key>
+	<string>Static Initializer (init)</string>
+	<key>scope</key>
+	<string>source.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>init</string>
+	<key>uuid</key>
+	<string>4CAFB3CB-0DF0-4195-BF9F-55EB00000000</string>
+</dict>
+</plist>

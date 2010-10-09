@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$chain-&gt;next(\$self, \$params, \$chain);$0</string>
+	<key>name</key>
+	<string>Next Filter (next)</string>
+	<key>scope</key>
+	<string>source.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>next</string>
+	<key>uuid</key>
+	<string>4CAFB506-0D8C-4DD6-9645-55E800000000</string>
+</dict>
+</plist>

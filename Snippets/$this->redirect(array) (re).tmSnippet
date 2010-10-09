@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;redirect(array('${1:Controller}::${2:action}'$0));</string>
+	<key>name</key>
+	<string>$this-&gt;redirect() (re)</string>
+	<key>scope</key>
+	<string>source.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>re</string>
+	<key>uuid</key>
+	<string>4CAFB24F-35A4-4741-8812-112600000000</string>
+</dict>
+</plist>
