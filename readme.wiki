@@ -1,10 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>name</key>
-	<string>Lithium</string>
-	<key>uuid</key>
-	<string>C461EEC6-3A61-4EAD-ADB3-A3810186D22D</string>
-</dict>
-</plist>
+## A TextMate Bundle for Lithium
+
+This TextMate bundle includes grammar and completions for the Lithium API, plus common code-generation snippets.
+
+
+### Installation
+
+Fire up Terminal, and enter the following commands:
+
+{{{
+cd /path/to/libraries
+git clone code@dev.lithify.me:lithium_textmate.git
+
+rm -rf ~/Library/Application\ Support/TextMate/Bundles/Lithium.tmbundle
+ln -s `pwd`/lithium_textmate/Lithium.tmbundle ~/Library/Application\ Support/TextMate/Bundles/
+}}}
+
+Then, select `Reload Bundles` from the `Bundles > Bundle Editor` menu in TextMate.
+
+### Error Linking
+
+The TextMate bundle itself is now wrapped in a plugin that provides some additional integration for Lithium. To take advantage, add the following to `config/bootstrap/libraries.php`:
+
+{{{
+Libraries::add('lithium_textmate');
+}}}
+
+Finally, be sure to clear your cache (typically APC or file).
+
+Now, when running the test suite, failures and exceptions will be linked to the file and line number where they occurred, and clicking them will open the file in TextMate, with the line number selected.
