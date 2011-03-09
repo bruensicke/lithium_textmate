@@ -17,6 +17,12 @@ ln -s `pwd`/lithium_textmate/Lithium.tmbundle ~/Library/Application\ Support/Tex
 
 Then, select `Reload Bundles` from the `Bundles > Bundle Editor` menu in TextMate.
 
+### Themes
+
+The plugin also includes two themes (light and dark) in the `/themes` folder. Each of these will be installed to TextMate automatically on opening.
+
+![The Union of RAD dev theme](http://img.skitch.com/20100130-k3fwqjd8prwj13e2u5a18ibsnb.jpg)
+
 ### Error Linking
 
 The TextMate bundle itself is now wrapped in a plugin that provides some additional integration for Lithium. To take advantage, add the following to `config/bootstrap/libraries.php`:
