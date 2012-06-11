@@ -1,0 +1,5 @@
+{
+	"category": "libraries",
+	"title": "TextMate",
+	"description": "The TextMate plugin includes a TextMate bundle with Lithium commands and snippets, Union of RAD themes, and auto-links stack traces and error messages to files, to auto-open in TextMate."
+}

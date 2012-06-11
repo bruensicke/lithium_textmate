@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>public function __construct(array \$config = array()) {
+	$0
+}</string>
+	<key>name</key>
+	<string>Constructor (ctor)</string>
+	<key>scope</key>
+	<string>source.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>ctor</string>
+	<key>uuid</key>
+	<string>4CAFB280-2780-4CDB-BE38-112900000000</string>
+</dict>
+</plist>

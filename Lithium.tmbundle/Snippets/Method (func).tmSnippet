@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>public $1function ${2:method}(\$${3:params}, array \$options = array()) {
+	$0
+}</string>
+	<key>name</key>
+	<string>Method (func)</string>
+	<key>scope</key>
+	<string>source.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>func</string>
+	<key>uuid</key>
+	<string>4CAFB478-4C98-4965-B4F6-112600000000</string>
+</dict>
+</plist>

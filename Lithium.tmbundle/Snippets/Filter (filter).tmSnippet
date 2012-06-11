@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\$this-&gt;}applyFilter('${2:method}', function(\$self, \$params, \$chain) {
+	$0
+});</string>
+	<key>name</key>
+	<string>Filter (filter)</string>
+	<key>scope</key>
+	<string>source.php.lithium</string>
+	<key>tabTrigger</key>
+	<string>filter</string>
+	<key>uuid</key>
+	<string>4CAFB2A4-F0DC-4E06-890C-55E900000000</string>
+</dict>
+</plist>
